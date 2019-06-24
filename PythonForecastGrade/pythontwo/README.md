@@ -48,5 +48,5 @@
 测试的console
 ![image](https://github.com/Concealed0/PythonForecastGrade/blob/master/PythonForecastGrade/pythontwo/image/console-3.png)
 
-# 多组测试
+
 
